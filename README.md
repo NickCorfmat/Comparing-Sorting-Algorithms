@@ -1,7 +1,6 @@
 Nicolas Corfmat
-ncorfmat
-1890805
-Assignment 3: Sorting - Putting your affairs in order
+
+Project: Comparing Sorting Algorithms
 
 DESCRIPTION
 
@@ -9,7 +8,7 @@ This program sorts arrays of pseudo-random numbers using the following four algo
 
 BUILD
 
-To build, run 'make' or 'make all" on the terminal command line within the assignment 3 directory. This creates the 'sorting, heap, batcher, shell, quick, stats, and set' executable files which can then be run.
+To build, run 'make' or 'make all" on the terminal command line within the project directory. This creates the 'sorting, heap, batcher, shell, quick, stats, and set' executable files which can then be run.
 
 CLEAN
 
